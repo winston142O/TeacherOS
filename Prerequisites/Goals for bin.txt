@@ -1,0 +1,5 @@
+bat must do these
+
+make directory
+copy driver to C:\WebDriver\bin
+add C:\WebDriver\bin to PATH

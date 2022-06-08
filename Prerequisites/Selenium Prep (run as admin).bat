@@ -1,0 +1,1 @@
+cd /D D:\profesoresiberia2\Prerequisites\dist  &&  Select_ver.exe  &&  setx /m PATH "C:\WebDriver\bin\;%PATH%"
